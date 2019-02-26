@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pickup
+  - Enemy
+  - Destroyer
+  - Flamer
+  - Rocketer
+  - Vessel
+  - Blaster
+  - Laser
+  - Slug
+  - laser_Pickup
+  - MiniDestroyer
+  - two_Bullets_Pickup
+  - double_Damage_Pickup
+  - score_Multiplier_Pickup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Enemy
+  - Invunerable
+  - Pickup
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3561829957
+    locked: 0
+  - name: background_Stars
+    uniqueID: 3384563163
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
